@@ -1,0 +1,4 @@
+﻿  KerObjShare.cpp.cpp
+C:\Users\hyoin-netai\Documents\GitHub\windows-system-programming\KerObjShare.cpp\KerObjShare.cpp\KerObjShare.cpp.cpp(28,7): warning C4102: '출처': 참조되지 않은 레이블입니다.
+C:\Users\hyoin-netai\Documents\GitHub\windows-system-programming\KerObjShare.cpp\KerObjShare.cpp\KerObjShare.cpp.cpp(28,14): warning C4102: 'https': 참조되지 않은 레이블입니다.
+  KerObjShare.cpp.vcxproj -> C:\Users\hyoin-netai\Documents\GitHub\windows-system-programming\KerObjShare.cpp\Debug\KerObjShare.cpp.exe
