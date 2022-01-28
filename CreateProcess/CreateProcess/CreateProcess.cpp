@@ -21,7 +21,7 @@ int _tmain(int argc, TCHAR* argv[])
 	si.dwXSize = 300;
 	si.dwYSize = 200;
 	si.lpTitle = _T("I am a boy!");
-	TCHAR command[] = _T("AdderProcess.exe 10 20");
+	TCHAR command[] = _T("AdderProcess 10 20");
 	TCHAR cDir[DIR_LEN];
 	BOOL state;
 
